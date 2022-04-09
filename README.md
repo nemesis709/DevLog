@@ -1,6 +1,6 @@
 # Hexa Viewer
 
--라이브러리
+- 라이브러리
 PyQt5
 
 - 기능
