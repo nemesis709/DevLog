@@ -17,3 +17,26 @@ pickle을 이용해 수집된 데이터를 파일로 저장하고, 불러올 수
 16자리의 hex값을 2,4,8 자리로 split해서 볼 수 있다.
 
 little / big endian을 설정할 수 있다.
+
+D2Coding 폰트 사용
+
+- SIL OPEN FONT LICENSE
+
+Version 1.1 - 26 February 2007
+
+- 코드 설명
+
+1. Items.py
+
+QData : Dataframe을 표로 바꾸기
+
+QTable : table이 위치하는 곳
+
+QCentralLabel : 가운데 정렬 라벨
+
+2. FindFunction.py
+
+Find : 검색 -> memory location / hex and string / prev and nex item
+
+GoTo : 검색 결과로 이동
+
