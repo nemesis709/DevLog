@@ -1,10 +1,10 @@
 
 from PyQt5.QtWidgets import QFileDialog
-from Popup import Configuration, InitFind, SetMemory
+from modules.Popup import Configuration, InitFind, SetMemory
+from modules.Items import QData
+from modules.ViewFunction import View
 import pandas as pd
 import re
-from Items import QData
-from ViewFunction import View
 
 
 class First():

@@ -1,8 +1,8 @@
 from PyQt5.QtWidgets import QFileDialog
 
 import pandas as pd
-from FindFunction import Find
-from Items import QData
+from modules.FindFunction import Find
+from modules.Items import QData
 
 
 class Collect():

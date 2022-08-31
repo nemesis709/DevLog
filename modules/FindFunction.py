@@ -1,6 +1,6 @@
-from Items import QData
-from InitFunction import First
-from Popup import FindMemory, FindText
+from modules.Items import QData
+from modules.InitFunction import First
+from modules.Popup import FindMemory, FindText
 from PyQt5 import QtCore
 from PyQt5.QtGui import QColor
 import pandas as pd

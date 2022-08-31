@@ -1,4 +1,4 @@
-from Items import QTable
+from modules.Items import QTable
 from PyQt5.QtWidgets import QCheckBox, QComboBox, QDialog, QLabel, QTableView, QVBoxLayout, QWidget, QGridLayout, QLineEdit, QPushButton
 from PyQt5 import QtCore
 

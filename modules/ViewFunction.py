@@ -1,5 +1,5 @@
+from modules.Items import QData
 import pandas as pd
-from Items import QData
 
 class View():
         #show converted HEX

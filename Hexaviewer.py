@@ -4,12 +4,12 @@ import sys
 import pandas as pd
 from PyQt5.QtGui import QFont, QFontDatabase, QIcon
 from PyQt5.QtWidgets import QAction, QApplication, QGroupBox, QMainWindow, QTextEdit
-from Popup import *
-from FindFunction import GoTo
-from Items import QCentralLabel, QTable
-from Collections import Collect
-from InitFunction import First,Page
-from ViewFunction import View
+from modules.Popup import *
+from modules.FindFunction import GoTo
+from modules.Items import QCentralLabel, QTable
+from modules.Collections import Collect
+from modules.InitFunction import First,Page
+from modules.ViewFunction import View
 
 #################### MAIN ############################
 class MyApp(QMainWindow):
